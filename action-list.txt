@@ -18,6 +18,8 @@
   - Tmux 
   - Vim
     Viml 50%
+  - Yocto
+  - Buildroot
 
 ** Linux
   - Uboot
@@ -34,3 +36,6 @@
   - 6Lowpan
   - Contiki
   - COAP
+
+** LeTeX
+  - beamer
