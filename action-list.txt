@@ -6,6 +6,14 @@
 
 ** Tools
   - Git
+    Git Magic
+    Git Pocket Guide
+    Git Essentials
+    Git Mastering Version control
+    Pro Git 
+    Pragmatic Guide to Git
+    Pragmatic Version Control Using Git
+    
   - Make
   - Tmux 
   - Vim
