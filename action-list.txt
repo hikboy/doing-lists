@@ -1,0 +1,32 @@
+** Cadence 
+    orCAD 于正博士（60集） 3集
+
+** C++ 
+    C++ Primer 5th  ch 6 
+
+** Canopen
+
+** Ethercat
+
+** Vim
+    Viml 50%
+
+** 语言修炼
+    Scheme 20%
+    计算机程序的构造与解释
+
+** Tmux 30%
+
+** CPLD MAX-II
+
+** Git
+
+** Python
+
+** linux.driver
+       Linux Device Drivers Development ch2 
+
+** uboot
+
+** Yocot
+
