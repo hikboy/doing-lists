@@ -42,6 +42,8 @@
   - 6Lowpan
   - Contiki
   - COAP
+  - Others
+    Iot in 5 days
 
 ** LeTeX
   - beamer
