@@ -1,5 +1,6 @@
 ** Software Arch
-   Code Reading
+  - Reading Code
+  R Code Reading
 
 ** Language
   - C++ 
@@ -9,18 +10,22 @@
 
 ** Tools
   - Git
-    Git Magic
-    Git Pocket Guide
-    Git Essentials
-    Git Mastering Version control
-    Pro Git 
-    Pragmatic Guide to Git
-    Pragmatic Version Control Using Git
+     Git Magic
+     Git Pocket Guide
+   D Git Essentials 
+     Git Mastering Version control
+     Pro Git 
+     Pragmatic Guide to Git
+     Pragmatic Version Control Using Git
     
   - Make
   - Tmux 
   - Vim
-    Viml 50%
+    R Viml 50%
+    R Practical Vim 2ed
+    R Hacking Vim
+  - Emacs
+    R Learning GNU Emacs 3ed
   - Yocto
   - Buildroot
 
@@ -28,14 +33,14 @@
   - Uboot
   - Start Up
   - Driver
-    Linux Device Drivers Development ch2 
+     Linux Device Drivers Development ch2 
 
   - Netfilter and Iptables
-    Linux iptables Pocket Reference
+     Linux iptables Pocket Reference
 
 ** Network
   - L2
-    Ethernet Switches
+   D Ethernet Switches
 
 ** Iot
   - 802.15.4
@@ -43,7 +48,7 @@
   - Contiki
   - COAP
   - Others
-    Iot in 5 days
+   D Iot in 5 days
 
 ** LeTeX
   - beamer
