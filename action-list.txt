@@ -40,6 +40,9 @@
 
   - Netfilter and Iptables
      Linux iptables Pocket Reference
+   
+  - Compile and Config
+  D Linux kernel in a nutshell
 
 ** Network
   - L2
