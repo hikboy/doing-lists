@@ -62,4 +62,6 @@
 ** LeTeX
   - beamer
 
+** BLE
+  D Getting Started with Bluetooth Low Energy
    
