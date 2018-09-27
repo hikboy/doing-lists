@@ -1,67 +1,42 @@
-** Software Arch
-  - Reading Code
-  R Code Reading
 
-** Language
-  - C++ 
+** Finding
+    Extended TCP/IP Stack In Linux
+    Essential Linux Device Drivers
+    code reading
+    Low-Rate Wireless Personal Area Networks: Enabling Wireless Sensors With IEEE 802.15.4, 3rd Edition
+    Bluetooth 5 & Bluetooth Low Energy: A Developer's Guide
+    Word Order in English Sentences
+    Hacking Wireless Networks - The ultimate hands-on guide
+
+** Reading 
+    Code Reading
+    Core Python Programming 2ed
     C++ Primer 5th  ch 6 
-  - Python
-  R Core Python Programming 2ed
-  - Scheme 
+    Managing Projects with GNU Make, 3rd 
+    Linux Device Drivers Development ch2 
+    Linux Device Drivers 3rd
+    Understanding Linux Network Internals
+    Understanding.the.Linux.Kernel D.Daniel.P.Bovet
+    Viml 50%
+    Practical Vim 2ed
+    Hacking Vim
+    Learning GNU Emacs 3ed
+    Harry Poter 1ed 
 
-** Tools
-  - Git
-     Git Magic
-     Git Pocket Guide
-   D Git Essentials 
-     Git Mastering Version control
-     Pro Git 
-     Pragmatic Guide to Git
-     Pragmatic Version Control Using Git
-    
-  - Make
-   R Managing Projects with GNU Make, 3rd 
-  - Tmux 
-  - Vim
-    R Viml 50%
-    R Practical Vim 2ed
-    R Hacking Vim
-  - Emacs
-    R Learning GNU Emacs 3ed
-  - Yocto
-  - Buildroot
+** Done
+    Git Essentials 
+    Ethernet Switches
+    Linux kernel in a nutshell
+    Iot in 5 days
+    Getting Started with Bluetooth Low Energy
 
-** Linux
-  - Uboot
-  - Start Up
-  - Driver
-     Linux Device Drivers Development ch2 
-  R  Linux Device Drivers 3rd
+** Will
+    Git Magic
+    Git Pocket Guide
+    Git Mastering Version control
+    Pro Git 
+    Pragmatic Guide to Git
+    Pragmatic Version Control Using Git
+    Linux iptables Pocket Reference
 
-  - Netfilter and Iptables
-     Linux iptables Pocket Reference
-   
-  - Compile and Config
-  D Linux kernel in a nutshell
 
-** Network
-  - L2
-   D Ethernet Switches
-  
-  - Network Code Analyse
-   R Understanding Linux Network Internals
-
-** Iot
-  - 802.15.4
-  - 6Lowpan
-  - Contiki
-  - COAP
-  - Others
-   D Iot in 5 days
-
-** LeTeX
-  - beamer
-
-** BLE
-  D Getting Started with Bluetooth Low Energy
-   
