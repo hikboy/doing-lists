@@ -29,6 +29,7 @@
     Linux kernel in a nutshell
     Iot in 5 days
     Getting Started with Bluetooth Low Energy
+    Word order in English Sentences
 
 ** Will
     Git Magic
