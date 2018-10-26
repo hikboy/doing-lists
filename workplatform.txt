@@ -1,0 +1,22 @@
+* windows
+** software
+*** transfer
+flashfxp //ftp
+everything //searching
+KeyTweak
+SecureCrt
+GoodSync
+xMind
+Visio
+picasa
+Xshell
+CCleaner
+BeyondCompare
+foobar2000
+vim
+emacs
+
+* linux
+
+
+* macos
