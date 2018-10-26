@@ -13,6 +13,7 @@ Xshell
 CCleaner
 BeyondCompare
 foobar2000
+foxmail
 vim
 emacs
 
@@ -20,3 +21,10 @@ emacs
 
 
 * macos
+
+* work 3 levels
+1) commandline
+
+2) commandline, GUI
+
+3) commandline, GUI, real Socket
