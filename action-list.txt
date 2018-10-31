@@ -1,13 +1,3 @@
-
-** Finding
-    Extended TCP/IP Stack In Linux
-    Essential Linux Device Drivers
-    code reading
-    Low-Rate Wireless Personal Area Networks: Enabling Wireless Sensors With IEEE 802.15.4, 3rd Edition
-    Bluetooth 5 & Bluetooth Low Energy: A Developer's Guide
-    Word Order in English Sentences
-    Hacking Wireless Networks - The ultimate hands-on guide
-
 ** Reading 
     Code Reading
     Core Python Programming 2ed
