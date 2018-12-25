@@ -12,6 +12,7 @@
     Hacking Vim
     Learning GNU Emacs 3ed
     Harry Poter 1ed 
+    一平米健身
 
 ** Done
     Git Essentials 
@@ -20,14 +21,13 @@
     Iot in 5 days
     Getting Started with Bluetooth Low Energy
     Word order in English Sentences
+    硬汉健身
 
 ** Will
-    Git Magic
-    Git Pocket Guide
-    Git Mastering Version control
-    Pro Git 
     Pragmatic Guide to Git
     Pragmatic Version Control Using Git
     Linux iptables Pocket Reference
-
+    The Linux Programmer's Toolbox
+    Unix Network Proramming V1
+    Unix Network Proramming V2
 
