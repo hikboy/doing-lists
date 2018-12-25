@@ -13,6 +13,7 @@
     Learning GNU Emacs 3ed
     Harry Poter 1ed 
     一平米健身
+    SSH Mastery
 
 ** Done
     Git Essentials 
