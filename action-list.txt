@@ -14,6 +14,8 @@
     Harry Poter 1ed 
     一平米健身
     SSH Mastery
+    The Linux Programmer's Toolbox
+    bash Pocket Reference
 
 ** Done
     Git Essentials 
@@ -22,7 +24,7 @@
     Iot in 5 days
     Getting Started with Bluetooth Low Energy
     Word order in English Sentences
-    硬汉健身
+    硬派健身
 
 ** Will
     Pragmatic Guide to Git
