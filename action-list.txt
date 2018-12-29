@@ -1,6 +1,16 @@
 ** Reading 
     Code Reading
     Core Python Programming 2ed
+    Harry Poter 1ed 
+    一平米健身
+    The Linux Programmer's Toolbox
+    bash Pocket Reference
+    Advanced Programming in the UNIX Environment
+    UNIX Network Programming V1
+    UNIX Network Programming V2
+
+** Staging
+    SSH Mastery
     C++ Primer 5th  ch 6 
     Managing Projects with GNU Make, 3rd 
     Linux Device Drivers Development ch2 
@@ -11,11 +21,6 @@
     Practical Vim 2ed
     Hacking Vim
     Learning GNU Emacs 3ed
-    Harry Poter 1ed 
-    一平米健身
-    SSH Mastery
-    The Linux Programmer's Toolbox
-    bash Pocket Reference
 
 ** Done
     Git Essentials 
@@ -30,7 +35,3 @@
     Pragmatic Guide to Git
     Pragmatic Version Control Using Git
     Linux iptables Pocket Reference
-    The Linux Programmer's Toolbox
-    Unix Network Proramming V1
-    Unix Network Proramming V2
-
