@@ -2,12 +2,10 @@
     Code Reading
     Core Python Programming 2ed
     Harry Poter 1ed 
-    一平米健身
     The Linux Programmer's Toolbox
     bash Pocket Reference
     Advanced Programming in the UNIX Environment
     UNIX Network Programming V1
-    UNIX Network Programming V2
 
 ** Staging
     SSH Mastery
@@ -30,8 +28,20 @@
     Getting Started with Bluetooth Low Energy
     Word order in English Sentences
     硬派健身
+    一平米健身
+    Embedded Linux Systems with the Yocto Project
 
 ** Will
+*** Git
     Pragmatic Guide to Git
     Pragmatic Version Control Using Git
+
+*** Linux
     Linux iptables Pocket Reference
+    UNIX Network Programming V2
+
+*** Docker
+    The Docker Book
+    Docker in Action
+    Docker - The Complete Introduction To Using Docker Containers Today 2016
+
