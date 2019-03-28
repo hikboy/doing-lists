@@ -8,7 +8,6 @@
 
 ***
     UNIX Network Programming V2
-    Routing TCPIP Volume I
     Routing TCPIP Volume II
 
 *** Docker
@@ -17,13 +16,14 @@
     Docker - The Complete Introduction To Using Docker Containers Today 2016
 
 ** Reading 
-    Code Reading
-    Core Python Programming 2ed
-    Harry Poter 1ed 
-    The Linux Programmer's Toolbox
-    bash Pocket Reference
+    Core Python Programming 2ed (60%)
+    The Linux Programmer's Toolbox (90%)
     Advanced Programming in the UNIX Environment
     UNIX Network Programming V1
+    Routing TCPIP Volume I
+    Writing Linux Device Drivers
+    A Tour of Cplusplus.2nd
+    Harry Poter 1ed 
 
 ** Staging
     SSH Mastery
@@ -37,6 +37,8 @@
     Practical Vim 2ed
     Hacking Vim
     Learning GNU Emacs 3ed
+    Code Reading
+    bash Pocket Reference
 
 ** Done
     BASH GUIDE
