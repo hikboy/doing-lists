@@ -39,6 +39,7 @@
     Learning GNU Emacs 3ed
 
 ** Done
+    BASH GUIDE
     Git Essentials 
     Ethernet Switches
     Linux kernel in a nutshell
