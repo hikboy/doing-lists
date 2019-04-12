@@ -41,6 +41,7 @@
     bash Pocket Reference
 
 ** Done
+    Introducing Go
     BASH GUIDE
     Git Essentials 
     Ethernet Switches
