@@ -16,6 +16,7 @@
     Docker - The Complete Introduction To Using Docker Containers Today 2016
 
 ** Reading 
+    Sed and Awk 101 Hacks
     Core Python Programming 2ed (60%)
     The Linux Programmer's Toolbox (90%)
     Advanced Programming in the UNIX Environment
