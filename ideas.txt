@@ -11,4 +11,7 @@
 代币可以进行交易；
 代币也可以用于获取下载的资源和带宽；
 
+2. subscribes
 
+I need to export the text from subscribes.
+Regular Expresion can help me.
