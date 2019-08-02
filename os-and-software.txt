@@ -1,4 +1,5 @@
 * windows
+when install windows, choose English as the default language
 ** software
 *** transfer
 flashfxp //ftp
