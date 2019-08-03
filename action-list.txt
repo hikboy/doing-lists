@@ -1,33 +1,11 @@
-** Will
-*** Git
-    Pragmatic Guide to Git
-    Pragmatic Version Control Using Git
-
-*** Linux
-    Linux iptables Pocket Reference
-
-***
-    UNIX Network Programming V2
-    Routing TCPIP Volume II
-
-*** Docker
-    The Docker Book
-    Docker in Action
-    Docker - The Complete Introduction To Using Docker Containers Today 2016
-
 ** Reading 
-    Sed and Awk 101 Hacks
-    Core Python Programming 2ed (60%)
-    The Linux Programmer's Toolbox (90%)
-    Advanced Programming in the UNIX Environment
-    UNIX Network Programming V1
-    Routing TCPIP Volume I
-    Writing Linux Device Drivers
-    A Tour of Cplusplus.2nd
-    Harry Poter 1ed 
+    Mastering Regular Expressions, 3rd Edition
+    Just for fun
+    IP Routing Fundamentals 
+    Lisa AAC
 
 ** Staging
-    SSH Mastery
+    A Tour of Cplusplus.2nd (20%)
     C++ Primer 5th  ch 6 
     Managing Projects with GNU Make, 3rd 
     Linux Device Drivers Development ch2 
@@ -35,22 +13,47 @@
     Understanding Linux Network Internals
     Understanding.the.Linux.Kernel D.Daniel.P.Bovet
     Viml 50%
+    The Linux Programmer's Toolbox (90%)
+    Sed and Awk 101 Hacks (60%)
+    Advanced Programming in the UNIX Environment
+    UNIX Network Programming V1
+    Writing Linux Device Drivers
+
+** Will
+    Pragmatic Guide to Git
+    Pragmatic Version Control Using Git
+    Linux iptables Pocket Reference
+    UNIX Network Programming V2
+    Routing TCPIP Volume II
+    Routing TCPIP Volume I
+    The Docker Book
+    Docker in Action
+    Docker - The Complete Introduction To Using Docker Containers Today 2016
+    STL源码剖析
+    程序员的自我修养
+    SSH Mastery
     Practical Vim 2ed
     Hacking Vim
     Learning GNU Emacs 3ed
     Code Reading
     bash Pocket Reference
 
+** Give up
+    Core Python Programming 2ed (60%)
+
 ** Done
     Introducing Go
     BASH GUIDE
     Git Essentials 
-    Ethernet Switches
+    Etahernet Switches
     Linux kernel in a nutshell
     Iot in 5 days
     Getting Started with Bluetooth Low Energy
     Word order in English Sentences
+    Embedded Linux Systems with the Yocto Project
+    Harry Poter 1ed 
+    Grammer in Use
+    Linux Kernel Development 3rd Edition
+    Embedded Linux Primer, 2ed
     硬派健身
     一平米健身
-    Embedded Linux Systems with the Yocto Project
-
